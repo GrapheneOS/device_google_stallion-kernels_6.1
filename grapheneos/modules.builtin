@@ -248,6 +248,7 @@ kernel/drivers/gpu/drm/drm_shmem_helper.ko
 kernel/drivers/gpu/drm/drm_kms_helper.ko
 kernel/drivers/gpu/drm/drm_mipi_dsi.ko
 kernel/drivers/gpu/drm/ttm/ttm.ko
+kernel/drivers/connector/cn.ko
 kernel/drivers/base/firmware_loader/firmware_class.ko
 kernel/drivers/base/regmap/regmap-i2c.ko
 kernel/drivers/base/regmap/regmap-spi.ko
