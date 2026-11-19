@@ -110,6 +110,7 @@ kernel/crypto/md5.ko
 kernel/crypto/sha1_generic.ko
 kernel/crypto/sha256_generic.ko
 kernel/crypto/sha512_generic.ko
+kernel/crypto/sha3_generic.ko
 kernel/crypto/blake2b_generic.ko
 kernel/crypto/gf128mul.ko
 kernel/crypto/ecb.ko
